@@ -1,0 +1,18 @@
+{
+  "name": "swagger-path",
+  "version": "1.0.0",
+  "description": "convert swagger path to uri path.eg /user/{id} -> /user/:id",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "swagger",
+    "path"
+  ],
+  "author": "cody",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
